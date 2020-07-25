@@ -11,7 +11,7 @@ pipeline {
     }
 
     environment {
-        //TODO: Edit these vars as per your env
+        //TODO: Edit these vars as per your env fuck
         DEV_PROJECT = "jjeerry25-books-dev"
         STAGE_PROJECT = "jjeerry25-books-stage"
         APP_GIT_URL = "https://github.com/jjeerry25/DO288-apps"
